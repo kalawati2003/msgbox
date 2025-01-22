@@ -1,0 +1,11 @@
+{
+    "name": "mylaptop/msgbox",
+    "description": "this is my msgbox",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mylaptop\\Msgbox\\": "src/"
+        }
+    },
+    "require": {}
+}
